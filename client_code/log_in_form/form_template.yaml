@@ -46,10 +46,6 @@ components:
     name: button_1
     layout_properties: {grid_position: 'MSGYAQ,CYEISR'}
     event_bindings: {click: button_1_click}
-  - type: Button
-    properties: {text: button_2}
-    name: button_2
-    layout_properties: {grid_position: 'MSGYAQ,BNQCBQ'}
 - type: FlowPanel
   properties: {}
   name: navbar_links
